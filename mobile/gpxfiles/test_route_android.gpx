@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2023 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2023</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.com/maps/dir/Lavelle+Road,+Ashok+Nagar,+Bengaluru,+Karnataka+560001/MG+Road,+Bengaluru,+Karnataka/@12.9723396,77.599279,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3bae1679b09041a5:0x413706ed450cc2e1!2m2!1d77.5978644!2d12.9712879!1m5!1m1!1s0x3bae1687393dbc13:0x8b70c8e652b73d9e!2m2!1d77.609448!2d12.9746983?entry=tts&shorturl=1&hl=en</url-->
+    <time>2023-07-09T10:51:14Z</time>
+  </metadata>
+<trk>
+  <name>Lavelle Road to MG Road</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="12.9712879" lon="77.5978644">
+    <name>TP001</name>
+    <time>2023-07-09T10:51:14Z</time>
+  </trkpt>
+  <trkpt lat="12.97139" lon="77.59797">
+    <name>TP002</name>
+    <time>2023-07-09T10:51:18Z</time>
+  </trkpt>
+  <trkpt lat="12.97144" lon="77.59803">
+    <name>TP003</name>
+    <time>2023-07-09T10:51:20Z</time>
+  </trkpt>
+  <trkpt lat="12.9719" lon="77.59843">
+    <name>TP004</name>
+    <time>2023-07-09T10:51:36Z</time>
+  </trkpt>
+  <trkpt lat="12.97235" lon="77.59873">
+    <name>TP005</name>
+    <time>2023-07-09T10:51:50Z</time>
+  </trkpt>
+  <trkpt lat="12.97261" lon="77.59894">
+    <name>TP006</name>
+    <time>2023-07-09T10:51:59Z</time>
+  </trkpt>
+  <trkpt lat="12.97277" lon="77.59919">
+    <name>TP007</name>
+    <time>2023-07-09T10:52:07Z</time>
+  </trkpt>
+  <trkpt lat="12.97288" lon="77.59922">
+    <name>TP008</name>
+    <time>2023-07-09T10:52:10Z</time>
+  </trkpt>
+  <trkpt lat="12.97303" lon="77.59925">
+    <name>TP009</name>
+    <time>2023-07-09T10:52:14Z</time>
+  </trkpt>
+  <trkpt lat="12.97308" lon="77.59926">
+    <name>TP010</name>
+    <time>2023-07-09T10:52:16Z</time>
+  </trkpt>
+  <trkpt lat="12.97312" lon="77.59928">
+    <name>TP011</name>
+    <time>2023-07-09T10:52:18Z</time>
+  </trkpt>
+  <trkpt lat="12.97316" lon="77.5993">
+    <name>TP012</name>
+    <time>2023-07-09T10:52:20Z</time>
+  </trkpt>
+  <trkpt lat="12.97319" lon="77.59933">
+    <name>TP013</name>
+    <time>2023-07-09T10:52:22Z</time>
+  </trkpt>
+  <trkpt lat="12.97323" lon="77.59936">
+    <name>TP014</name>
+    <time>2023-07-09T10:52:24Z</time>
+  </trkpt>
+  <trkpt lat="12.973227" lon="77.5993636">
+    <name>TP015</name>
+    <time>2023-07-09T10:52:25Z</time>
+  </trkpt>
+  <trkpt lat="12.97312" lon="77.60104">
+    <name>TP016</name>
+    <time>2023-07-09T10:53:01Z</time>
+  </trkpt>
+  <trkpt lat="12.9731249" lon="77.6010401">
+    <name>TP017</name>
+    <time>2023-07-09T10:53:02Z</time>
+  </trkpt>
+  <trkpt lat="12.97319" lon="77.60114">
+    <name>TP018</name>
+    <time>2023-07-09T10:53:06Z</time>
+  </trkpt>
+  <trkpt lat="12.97322" lon="77.6012">
+    <name>TP019</name>
+    <time>2023-07-09T10:53:08Z</time>
+  </trkpt>
+  <trkpt lat="12.97325" lon="77.60123">
+    <name>TP020</name>
+    <time>2023-07-09T10:53:10Z</time>
+  </trkpt>
+  <trkpt lat="12.97329" lon="77.60127">
+    <name>TP021</name>
+    <time>2023-07-09T10:53:12Z</time>
+  </trkpt>
+  <trkpt lat="12.97331" lon="77.60129">
+    <name>TP022</name>
+    <time>2023-07-09T10:53:13Z</time>
+  </trkpt>
+  <trkpt lat="12.97417" lon="77.60143">
+    <name>TP023</name>
+    <time>2023-07-09T10:53:38Z</time>
+  </trkpt>
+  <trkpt lat="12.97509" lon="77.60155">
+    <name>TP024</name>
+    <time>2023-07-09T10:54:04Z</time>
+  </trkpt>
+  <trkpt lat="12.97548" lon="77.60159">
+    <name>TP025</name>
+    <time>2023-07-09T10:54:15Z</time>
+  </trkpt>
+  <trkpt lat="12.97579" lon="77.60161">
+    <name>TP026</name>
+    <time>2023-07-09T10:54:24Z</time>
+  </trkpt>
+  <trkpt lat="12.97654" lon="77.60179">
+    <name>TP027</name>
+    <time>2023-07-09T10:54:46Z</time>
+  </trkpt>
+  <trkpt lat="12.9765376" lon="77.6017855">
+    <name>TP028</name>
+    <time>2023-07-09T10:54:47Z</time>
+  </trkpt>
+  <trkpt lat="12.97663" lon="77.60181">
+    <name>TP029</name>
+    <time>2023-07-09T10:54:49Z</time>
+  </trkpt>
+  <trkpt lat="12.97663" lon="77.6019">
+    <name>TP030</name>
+    <time>2023-07-09T10:54:51Z</time>
+  </trkpt>
+  <trkpt lat="12.97663" lon="77.60196">
+    <name>TP031</name>
+    <time>2023-07-09T10:54:53Z</time>
+  </trkpt>
+  <trkpt lat="12.97663" lon="77.60198">
+    <name>TP032</name>
+    <time>2023-07-09T10:54:54Z</time>
+  </trkpt>
+  <trkpt lat="12.97663" lon="77.602">
+    <name>TP033</name>
+    <time>2023-07-09T10:54:55Z</time>
+  </trkpt>
+  <trkpt lat="12.97662" lon="77.60203">
+    <name>TP034</name>
+    <time>2023-07-09T10:54:56Z</time>
+  </trkpt>
+  <trkpt lat="12.97655" lon="77.60223">
+    <name>TP035</name>
+    <time>2023-07-09T10:55:01Z</time>
+  </trkpt>
+  <trkpt lat="12.97652" lon="77.60236">
+    <name>TP036</name>
+    <time>2023-07-09T10:55:04Z</time>
+  </trkpt>
+  <trkpt lat="12.97643" lon="77.60271">
+    <name>TP037</name>
+    <time>2023-07-09T10:55:12Z</time>
+  </trkpt>
+  <trkpt lat="12.97617" lon="77.60378">
+    <name>TP038</name>
+    <time>2023-07-09T10:55:34Z</time>
+  </trkpt>
+  <trkpt lat="12.97604" lon="77.60432">
+    <name>TP039</name>
+    <time>2023-07-09T10:55:46Z</time>
+  </trkpt>
+  <trkpt lat="12.97569" lon="77.60577">
+    <name>TP040</name>
+    <time>2023-07-09T10:56:16Z</time>
+  </trkpt>
+  <trkpt lat="12.97539" lon="77.60702">
+    <name>TP041</name>
+    <time>2023-07-09T10:56:42Z</time>
+  </trkpt>
+  <trkpt lat="12.97531" lon="77.60738">
+    <name>TP042</name>
+    <time>2023-07-09T10:56:50Z</time>
+  </trkpt>
+  <trkpt lat="12.97523" lon="77.60769">
+    <name>TP043</name>
+    <time>2023-07-09T10:56:57Z</time>
+  </trkpt>
+  <trkpt lat="12.97518" lon="77.60793">
+    <name>TP044</name>
+    <time>2023-07-09T10:57:02Z</time>
+  </trkpt>
+  <trkpt lat="12.97515" lon="77.60805">
+    <name>TP045</name>
+    <time>2023-07-09T10:57:05Z</time>
+  </trkpt>
+  <trkpt lat="12.97502" lon="77.60859">
+    <name>TP046</name>
+    <time>2023-07-09T10:57:17Z</time>
+  </trkpt>
+  <trkpt lat="12.97489" lon="77.60913">
+    <name>TP047</name>
+    <time>2023-07-09T10:57:29Z</time>
+  </trkpt>
+  <trkpt lat="12.97472" lon="77.60985">
+    <name>TP048</name>
+    <time>2023-07-09T10:57:44Z</time>
+  </trkpt>
+  <trkpt lat="12.9746" lon="77.61039">
+    <name>TP049</name>
+    <time>2023-07-09T10:57:55Z</time>
+  </trkpt>
+  <trkpt lat="12.97442" lon="77.61112">
+    <name>TP050</name>
+    <time>2023-07-09T10:58:10Z</time>
+  </trkpt>
+  <trkpt lat="12.9744245" lon="77.6111228">
+    <name>TP051</name>
+    <time>2023-07-09T10:58:11Z</time>
+  </trkpt>
+  <trkpt lat="12.97433" lon="77.61109">
+    <name>TP052</name>
+    <time>2023-07-09T10:58:15Z</time>
+  </trkpt>
+  <trkpt lat="12.9745" lon="77.61037">
+    <name>TP053</name>
+    <time>2023-07-09T10:58:39Z</time>
+  </trkpt>
+  <trkpt lat="12.97457" lon="77.61008">
+    <name>TP054</name>
+    <time>2023-07-09T10:58:49Z</time>
+  </trkpt>
+  <trkpt lat="12.9747" lon="77.60945">
+    <name>TP055</name>
+    <time>2023-07-09T10:59:10Z</time>
+  </trkpt>
+  <trkpt lat="12.9746983" lon="77.609448">
+    <name>TP056</name>
+    <time>2023-07-09T10:59:11Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
