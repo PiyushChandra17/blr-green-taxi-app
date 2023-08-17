@@ -1,6 +1,6 @@
 # blr-green-taxi-app || iOS || android
 
-// A mobile app that let's you request a ride within BLR city, connects passenger with driver in real time via socket.io
+// A mobile app that let's you request a ride within BLR city, connects passenger with driver in real time via socket.io | Convenience at your finger tips
 
 // Used Google Maps Places API for places auto suggestions and Google Maps Routes API for route directions
 
