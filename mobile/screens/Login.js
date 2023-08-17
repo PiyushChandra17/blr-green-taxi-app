@@ -48,7 +48,7 @@ export default class Login extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.headerText}>Uber Taxi App</Text>
+        <Text style={styles.headerText}>blr green taxi</Text>
         <LoginForm 
             email={this.state.email}
             password={this.state.password}
